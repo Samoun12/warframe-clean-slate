@@ -297,7 +297,7 @@ not a permanent unban.
 | **License** | Shared under the MIT License |
 | **Instructions** | the button in the Quick Start section |
 
-*Updated 2026-11-13 · Shared under the MIT License*
+*Updated 2026-11-14 · Shared under the MIT License*
 
 
-Updated 2026-11-13.
+Updated 2026-11-14.
